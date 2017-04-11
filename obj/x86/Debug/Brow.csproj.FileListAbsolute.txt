@@ -1,0 +1,16 @@
+F:\Brow\bin\Debug\Brow.exe
+F:\Brow\bin\Debug\Brow.pdb
+F:\Brow\obj\x86\Debug\Brow.Form1.resources
+F:\Brow\obj\x86\Debug\Brow.Properties.Resources.resources
+F:\Brow\obj\x86\Debug\Brow.csproj.GenerateResource.Cache
+F:\Brow\obj\x86\Debug\Brow.exe
+F:\Brow\obj\x86\Debug\Brow.pdb
+F:\Browser\obj\x86\Debug\Brow.exe
+F:\Browser\obj\x86\Debug\Brow.pdb
+F:\Browser\bin\Debug\Brow.exe
+F:\Browser\bin\Debug\Brow.pdb
+F:\Browser\obj\x86\Debug\Brow.Form1.resources
+F:\Browser\obj\x86\Debug\Brow.Properties.Resources.resources
+F:\Browser\obj\x86\Debug\Brow.csproj.GenerateResource.Cache
+F:\Browser\bin\Debug\Brow.exe.config
+F:\Browser\obj\x86\Debug\Brow.csprojResolveAssemblyReference.cache
